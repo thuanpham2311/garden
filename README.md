@@ -13,9 +13,10 @@
 - You just use github repo search, search anything you want or use can use **Tags** below.
 > eg. <https://github.com/thuanpham2311/zet/search?q=anime>
 
-## Things to do
+## Things I want to-do
 
-- [ ] I don't know use `README.md` file format can be more SEO than my `UID.md`, I need study more about this
+- I don't know use `README.md` file format can be more SEO than my `UID.md`, I need study more about this
+- Use zet to explore ideas some anime/kdrama series
 
 ## Tags
 
