@@ -8,6 +8,11 @@
 - If you don't know what is **Zettelkasten note-taking system**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
 - If you can read vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
 
+## How to read my zet?
+
+- You just use github repo search, search anything you want or use can use **Tags** below.
+> eg. <https://github.com/thuanpham2311/zet/search?q=anime>
+
 ## Things to do
 
 - [ ] I don't know use `README.md` file format can be more SEO than my `UID.md`, I need study more about this
