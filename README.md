@@ -53,7 +53,3 @@
 - I use script for copy my `zet_publish/` to this repo
 - Crontab for automation stuff, you can see my crontab config [here](https://github.com/thuanpham2311/dotfiles/search?q=crontab), default is every 15m.
 - I use shortcut `zn` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `zet_publish` or `zet_personal`.
-
-
-
-
