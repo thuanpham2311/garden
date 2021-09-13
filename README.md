@@ -11,7 +11,7 @@
 ## How to read my zet?
 
 - You just use github repo search, search anything you want or use can use **Tags** below.
-> eg. <https://github.com/thuanpham2311/zet/search?q=anime>
+> e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
 ## Things I want to-do
 
@@ -40,7 +40,7 @@
 ## My setup
 
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/dotfiles/search?q=ZettelHome&type=)
-- This my folder structurer:
+- This my folder structure:
 
 ```
 - note/
@@ -49,7 +49,7 @@
   + README.md
 ```
 
-- I use github private repo for syns my note.
+- I use github private repo for sync my note.
 - I use script for copy my `zet_publish/` to this repo
 - Crontab for automation stuff, you can see my crontab config [here](https://github.com/thuanpham2311/dotfiles/search?q=crontab), default is every 15m.
 - I use shortcut `zn` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `zet_publish` or `zet_personal`.
