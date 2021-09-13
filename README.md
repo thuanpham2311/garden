@@ -6,7 +6,7 @@
 - I get ideas from [@rwxrob](https://github.com/rwxrob) with [his zet repo](https://github.com/rwxrob/zet).
 - Maybe you can should read [ZettelRepos, Zettelkasten with Just Git and GitHub](https://github.com/rwxrob/zet/tree/main/20210502004642).
 - If you don't know what is **Zettelkasten note-taking system**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
-- If you can read vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
+- If you can read Vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
 
 ## How to read my zet?
 
