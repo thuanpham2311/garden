@@ -4,7 +4,7 @@
 
 - This repo I use both Vietnamese, English (little bit).
 - I get ideas from [@rwxrob](https://github.com/rwxrob) with [his zet repo](https://github.com/rwxrob/zet).
-- Maybe you can should read [ZettelRepos, Zettelkasten with Just Git and GitHub](https://github.com/rwxrob/zet/tree/main/20210502004642).
+- Maybe you can read [ZettelRepos, Zettelkasten with Just Git and GitHub](https://github.com/rwxrob/zet/tree/main/20210502004642).
 - If you don't know what is **Zettelkasten note-taking system**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
 - If you can read Vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
 
@@ -52,4 +52,4 @@
 - I use github private repo for sync my note.
 - I use script for copy my `zet_publish/` to this repo
 - Crontab for automation stuff, you can see my crontab config [here](https://github.com/thuanpham2311/dotfiles/search?q=crontab), default is every 15m.
-- I use shortcut `zn` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `zet_publish` or `zet_personal`.
+- I use shortcut `space + n` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `zet_publish` or `zet_personal`.
