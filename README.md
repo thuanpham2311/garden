@@ -24,7 +24,7 @@
 
 - #anime #weeaboo
 - #critical_thinking
-- #design #uni #font
+- #design #font
 - #developer #dev_life #front-end
 - #event
 - #finance #fund #fuck_you_money
