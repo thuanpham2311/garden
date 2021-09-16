@@ -1,5 +1,4 @@
 # Thuan Pham's zettelkasten
-
 > Some note not following markdown syntax because long time ago I use wiki link `[[okay]]`, I will fix this later. TRUST ME 🤣.
 
 - This repo I use both Vietnamese, English (little bit).
@@ -11,6 +10,7 @@
 ## How to read my zet?
 
 - You just use github repo search, search anything you want or use can use **Tags** below.
+
 > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
 ## Things I want to-do
@@ -42,7 +42,7 @@
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/dotfiles/search?q=ZettelHome&type=)
 - This my folder structure:
 
-```
+```bash
 - note/
   + zet_publish/
   + zet_personal/
