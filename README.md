@@ -7,6 +7,7 @@
 - If you can read Vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
 
 ## How to read my zet?
+
 - You just use github repo search, search anything you want or use can use **Tags** below.
 
 > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
@@ -40,12 +41,10 @@
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/dotfiles/search?q=ZettelHome&type=)
 - This my folder structure:
 
-```sh
-- note/
-  + zet_publish/
-  + zet_personal/
-  + README.md
-```
+> - note/
+>   + zet_publish/
+>   + README.md
+>   + zet_personal/
 
 - I use github private repo for sync my note.
 - I use script for copy my `zet_publish/` to this repo
