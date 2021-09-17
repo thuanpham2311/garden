@@ -1,7 +1,5 @@
 # Thuan Pham's zettelkasten
 
-> Some note not following markdown syntax because long time ago I use wiki link `[[okay]]`, I will fix this later. TRUST ME 🤣.
-
 - This repo I use both Vietnamese, English (little bit).
 - I get ideas from [@rwxrob](https://github.com/rwxrob) with [his zet repo](https://github.com/rwxrob/zet).
 - Maybe you can read [ZettelRepos, Zettelkasten with Just Git and GitHub](https://github.com/rwxrob/zet/tree/main/20210502004642).
