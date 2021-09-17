@@ -1,4 +1,5 @@
 # Thuan Pham's zettelkasten
+
 > Some note not following markdown syntax because long time ago I use wiki link `[[okay]]`, I will fix this later. TRUST ME 🤣.
 
 - This repo I use both Vietnamese, English (little bit).
