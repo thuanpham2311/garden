@@ -41,10 +41,10 @@
 - I use nvim and [this script to make my life easy](https://github.com/thuanpham2311/dotfiles/search?q=ZettelHome&type=)
 - This my folder structure:
 
-> - note/
->   + zet_publish/
->   + README.md
->   + zet_personal/
+  > - note/
+  >   * zet_publish/
+  >   * README.md
+  >   * zet_personal/
 
 - I use github private repo for sync my note.
 - I use script for copy my `zet_publish/` to this repo
