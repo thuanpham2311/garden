@@ -35,6 +35,7 @@
 - #university #gdsc
 - #video #article #book #course
 - #zettelkasten #note_taking
+- #focus
 
 ## My setup
 
