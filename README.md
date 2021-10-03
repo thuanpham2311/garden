@@ -54,6 +54,6 @@
 - Daily I review my inbox note note/(new note will be here), once time a day I use [function `hi`](https://github.com/thuanpham2311/dotfiles/blob/7c82f0f8f6565d343731fe9977792f67370ae7a6/zsh/zshrc#L180)
 
 
-test[^]
+ahi hi hij test[^1]
 
-[^]: https://bio.link/thuanpham2311
+[^1]: https://bio.link/thuanpham2311
