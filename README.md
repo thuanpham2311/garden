@@ -52,8 +52,3 @@
 - Crontab for automation stuff, you can see my crontab config [here](https://github.com/thuanpham2311/dotfiles/search?q=crontab), default is every 15m.
 - I use shortcut `space + n` in vim for new note following `YYYYMMDDhhmmss.md` to my inbox `note/`, after i will move this note to `zet_publish` or `zet_personal`.
 - Daily I review my inbox note note/(new note will be here), once time a day I use [function `hi`](https://github.com/thuanpham2311/dotfiles/blob/7c82f0f8f6565d343731fe9977792f67370ae7a6/zsh/zshrc#L180)
-
-
-ahi hi hij test[^1]
-
-[^1]: https://bio.link/thuanpham2311
