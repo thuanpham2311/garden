@@ -43,9 +43,9 @@
 - This my folder structure:
 
   > - note/
-  >   * zet_publish/
-  >   * README.md
-  >   * zet_personal/
+  >   - zet_publish/
+  >   - README.md
+  >   - zet_personal/
 
 - I use github private repo for sync my note.
 - I use script for copy my `zet_publish/` to this repo
