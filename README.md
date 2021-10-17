@@ -1,7 +1,5 @@
 # Thuan Pham's zettelkasten
 
-## MOC
-
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
