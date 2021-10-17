@@ -8,7 +8,7 @@
 
 ## How to read my zet?
 
-- You just use github repo search, search anything you want or use can use **Tags** below.
+- You just use github repo search, search anything you want or use can use **tags** below.
 
 > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
