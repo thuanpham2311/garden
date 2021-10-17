@@ -3,7 +3,7 @@
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
-- If you don't know what is **Zettelkasten note-taking system**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
+- If you don't know what is **Zettelkasten note-taking method**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
 - How to read my zet?
 
     → You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
