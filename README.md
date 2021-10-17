@@ -19,7 +19,7 @@
 | topic | link |
 | :---: | :---: |
 | cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| § |
-| what is zettelkasten note-taking method? | § |
+| How zettelkasten note-taking method work? | § |
 
 ## Tag
 
