@@ -16,6 +16,8 @@
 
 ## Structure Notes
 
+- something something...
+
 ## Tags
 
 - #video #article #book #course
