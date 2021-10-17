@@ -3,16 +3,11 @@
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
-- I get ideas from [@rwxrob](https://github.com/rwxrob) with [his zet repo](https://github.com/rwxrob/zet).
-- Maybe you can read [ZettelRepos, Zettelkasten with Just Git and GitHub](https://github.com/rwxrob/zet/tree/main/20210502004642).
 - If you don't know what is **Zettelkasten note-taking system**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
-- If you can read Vietnamese you can visit [my blog](http://thuanpham2311.github.io/).
+- How to read my zet?
 
-## How to read my zet?
-
-- You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
-
-> e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
+    → You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
+    > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
 ## Structure Notes
 
