@@ -1,5 +1,12 @@
 # Thuan Pham's zettelkasten
 
+## MOC
+
+- anime
+  * [sự liên kết giữa game nhập vai với thế giới thực](zet_publish/210911002059.md)
+  * [tokyo ghoul](zet_publish/2021091200039.md)
+  * [Chặng hành trình chở thành weeaboo giả cày](zet_publish/202102082055.md)
+
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
