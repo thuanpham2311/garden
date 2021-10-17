@@ -16,7 +16,9 @@
 
 ## Structure Notes
 
-- something something...
+| topic | link |
+| :---: | :---: |
+| cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| § |
 
 ## Tags
 
