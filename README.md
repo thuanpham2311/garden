@@ -1,21 +1,22 @@
-# Thuan Pham's zet note
+# Thuan Pham's garden/zet note
 
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
-- If you don't know what is **Zettelkasten note-taking method**, I recommend you [read this](https://zettelkasten.de/posts/overview/).
+- If you don't know what is **Zettelkasten note-taking method**, I recommend you read
+  - <https://zettelkasten.de/posts/overview>
+  - <https://notes.andymatuschak.org>
 - [My note taking setup](zet_publish/20211017203814.md)
 - How to read my zet?
 
-    → You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
-    > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
+  → You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
+
+  > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
 ## Structure Notes
 
-| topic | link |
-| :--- | :---: |
-| cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| [§ Cày thuật toán cùng ông dev](zet_publish/20211017204628.md) |
-| How zettelkasten note-taking method work? | § |
+- [§ Cày thuật toán cùng ông dev](zet_publish/20211017204628.md)
+- [§ How zettelkasten note-taking method work?](zet_publish/20211017210001.md)
 
 ## Question
 
