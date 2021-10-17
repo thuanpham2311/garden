@@ -10,27 +10,24 @@
 
 ## How to read my zet?
 
-- You just use github repo search, search anything you want or use can use **tags** below.
+- You just use github repo search, search anything you want or use can use **tags** or you can read the **Structure Notes** below.
 
 > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
 
+## Structure Notes
+
 ## Tags
 
-> This can be more or less, because I lazy update this 😁.
-
-- #critical_thinking
-- #design #font
-- #dev_life #front-end #vim #cli
-- #pm #scrum
-- #finance #fund #fuck_you_money
-- #human
-- #journal #blog
-- #video #kdrama #movie #anime #weeaboo
-- #philosophy #psychology #sns #sex
-- #university #gdsc
 - #video #article #book #course
-- #zettelkasten #note_taking
-- #focus
+- #kdrama #movie #anime #weeaboo
+- #human #philosophy #psychology #sns #sex #critical_thinking
+- #programming #dev_life #front-end #vim #cli
+- #productive #zettelkasten #note_taking #focus
+- #finance #fund #fuck_you_money
+- #design #font
+- #pm #scrum
+- #journal #blog
+- #university
 
 ## My setup
 
