@@ -19,8 +19,9 @@
 | topic | link |
 | :---: | :---: |
 | cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| § |
+| what is zettelkasten note-taking method? | § |
 
-## Tags
+## Tag
 
 - #video #article #book #course
 - #kdrama #movie #anime #weeaboo
