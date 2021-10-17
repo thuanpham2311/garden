@@ -14,7 +14,7 @@
 
 | topic | link |
 | :--- | :---: |
-| cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| § |
+| cày thuật toán cùng [@ông dev](zet_publish/202109112225.md)| [§ Cày thuật toán cùng ông dev](zet_publish/20211017204628.md) |
 | How zettelkasten note-taking method work? | § |
 
 ## Question
