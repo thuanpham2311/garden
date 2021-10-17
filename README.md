@@ -1,12 +1,5 @@
 # Thuan Pham's zettelkasten
 
-## MOC
-
-- anime
-  * [sự liên kết giữa game nhập vai với thế giới thực](zet_publish/210911002059.md)
-  * [tokyo ghoul](zet_publish/2021091200039.md)
-  * [Chặng hành trình chở thành weeaboo giả cày](zet_publish/202102082055.md)
-
 ## About
 
 - This repo I use both Vietnamese, English (little bit).
@@ -25,17 +18,15 @@
 
 > This can be more or less, because I lazy update this 😁.
 
-- #anime #weeaboo
 - #critical_thinking
 - #design #font
-- #developer #dev_life #front-end
-- #event
+- #dev_life #front-end #vim #cli
+- #pm #scrum
 - #finance #fund #fuck_you_money
 - #human
-- #journal #publish
-- #kdrama #movie
+- #journal #blog
+- #video #kdrama #movie #anime #weeaboo
 - #philosophy #psychology #sns #sex
-- #pm #scrum
 - #university #gdsc
 - #video #article #book #course
 - #zettelkasten #note_taking
