@@ -15,7 +15,6 @@
 
 ## Structure Notes
 
-- [§ Chuyên mục cà khịa Linux](publish/20211017204628.md)
 - [§ Cày thuật toán cùng ông dev](publish/20211017204628.md)
 - [§ How zettelkasten note-taking method work?](publish/20211017210001.md)
 
