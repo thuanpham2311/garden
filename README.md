@@ -2,8 +2,8 @@
 
 ## About
 
-- This repo I use both Vietnamese, English (little bit).
-- If you don't know what is **Zettelkasten note-taking method**, I recommend you read:
+- This repo i use both Vietnamese, English (little bit).
+- If you don't know what is **Zettelkasten note-taking method**, i recommend you can read:
   - <https://zettelkasten.de/posts/overview>
   - <https://notes.andymatuschak.org>
 - [My note taking setup](publish/20211017203814.md)
@@ -15,20 +15,22 @@
 
 ## Structure Notes
 
+- [§ Chuyên mục cà khịa Linux](publish/20211017204628.md)
 - [§ Cày thuật toán cùng ông dev](publish/20211017204628.md)
 - [§ How zettelkasten note-taking method work?](publish/20211017210001.md)
 
 ## Question
 
 - [Who are people we admire?](publish/20211017185640.md)
-- [What I think about people beauty?](publish/202109121101.md)
+- [What i think about people beauty?](publish/202109121101.md)
+-
 
 ## Tag
 
 - #video #article #book #course
 - #kdrama #movie #anime #weeaboo
 - #human #philosophy #psychology #sns #sex #critical_thinking
-- #programming #dev_life #front-end #vim #cli
+- #programming #dev_life #front-end #vim #cli #linux
 - #productive #zettelkasten #note-taking #focus
 - #finance #fund
 - #design #font
