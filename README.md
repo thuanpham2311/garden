@@ -35,4 +35,4 @@
 - #design #font
 - #pm #scrum
 - #journal #blog
-- #university
+- #university #education
