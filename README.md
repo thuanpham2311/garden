@@ -4,6 +4,7 @@
 
 - This repo i use both Vietnamese, English (little bit).
 - If you don't know what is **Zettelkasten note-taking method**, i recommend you can read:
+  - <https://github.com/rwxrob/zet/#readme>
   - <https://zettelkasten.de/posts/overview>
   - <https://notes.andymatuschak.org>
 - [My note taking setup](publish/20211017203814.md)
@@ -22,7 +23,8 @@
 
 - [Who are people we admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
--
+- [Linux có gì vui?](publish/2020103.md)
+- [Github có gì vui?](publish/20210316.md)
 
 ## Tag
 
