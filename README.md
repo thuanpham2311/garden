@@ -23,8 +23,6 @@
 
 - [Who are people we admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
-- [Linux có gì vui?](publish/2020103.md)
-- [Github có gì vui?](publish/20210316.md)
 
 ## Tag
 
