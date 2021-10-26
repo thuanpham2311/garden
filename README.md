@@ -23,10 +23,6 @@
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 
-## things want to try
-
-- the real mind map not stupid mind map
-
 ## Tag
 
 - #video #article #book #course
