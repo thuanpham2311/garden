@@ -23,12 +23,16 @@
 - [Who are people we admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 
+## things want to try
+
+- the real mind map
+
 ## Tag
 
 - #video #article #book #course
 - #kdrama #movie #anime #weeaboo
 - #human #philosophy #psychology #sns #sex #critical_thinking
-- #programming #dev_life #front-end #vim #cli #linux
+- #programming #dev-life #front-end #vim #cli #linux
 - #productive #zettelkasten #note-taking #focus
 - #finance #fund
 - #design #font
