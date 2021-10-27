@@ -23,6 +23,10 @@
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 
+## thinks
+
+- mind map and zettelkasten can be once?
+
 ## Tag
 
 - #video #article #book #course
