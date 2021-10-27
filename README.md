@@ -25,8 +25,6 @@
 
 ## thinks
 
-- mind map and zettelkasten can be once?
-
 ## Tag
 
 - #video #article #book #course
