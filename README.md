@@ -25,6 +25,8 @@
 
 ## thinks
 
+- what about zettelkasten + mind map?
+
 ## Tag
 
 - #video #article #book #course
