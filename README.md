@@ -26,7 +26,6 @@
 ## thinks
 
 - what about zettelkasten + mind map?
-- github search can search with 2 hashtag?
 
 ## Tag
 
