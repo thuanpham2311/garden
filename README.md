@@ -36,6 +36,6 @@
 - #productive #zettelkasten #note-taking #focus
 - #finance #fund
 - #design #font
-- #pm #scrum
+- #pm #scrum #team-work
 - #journal #blog
 - #university #education
