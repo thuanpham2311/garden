@@ -1,5 +1,14 @@
 # Thuan Pham's garden note
 
+# Table of Contents
+
+- [Thuan Pham's garden note](#thuan-phams-garden-note)
+  - [About](#about)
+  - [Structure Notes](#structure-notes)
+  - [Question](#question)
+  - [thinks](#thinks)
+  - [Tag](#tag)
+
 ## About
 
 - This repo i use both Vietnamese, English (little bit).
