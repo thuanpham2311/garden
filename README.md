@@ -22,6 +22,7 @@
 
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
+- [What font i like?](publish/202107192230.md)
 
 ## thinks
 
