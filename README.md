@@ -1,4 +1,4 @@
-# Thuan Pham's garden note
+# Garden Note
 
 ## About
 
