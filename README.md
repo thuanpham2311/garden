@@ -11,7 +11,7 @@
 - How to read my zet?
   → You just use github repo search, search anything you want or you can use **tags** or you can read the **Structure Notes** below.
 
-  > e.g. <https://github.com/thuanpham2311/zet/search?q=anime>
+  > e.g. <https://github.com/thuanpham2311/garden/search?q=anime>
 
 ## Structure Notes
 
