@@ -35,7 +35,7 @@
 - #human #philosophy #psychology #sns #sex #critical_thinking
 - #programming #dev-life #front-end #vim #cli #linux
 - #productive #zettelkasten #note-taking #focus
-- #finance #fund
+- -#finance #fund
 - #design #font
 - #pm #scrum #team-work
 - #journal #blog
