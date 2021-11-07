@@ -1,5 +1,13 @@
 # Garden Note
 
+**Table of Contents**
+
+- [About](#about)
+- [Structure Notes](#structure-notes)
+- [Question](#question)
+- [thinks](#thinks)
+- [Tag](#tag)
+
 ## About
 
 - This repo i use both Vietnamese, English (little bit).
@@ -17,6 +25,7 @@
 
 - [§ Cày thuật toán cùng ông dev](publish/20211017204628.md)
 - [§ How zettelkasten note-taking method work?](publish/20211017210001.md)
+- [§ mindmap with Sheng Huang](publish/20211107233712.md)
 
 ## Question
 
@@ -27,6 +36,8 @@
 ## thinks
 
 - what about zettelkasten + mind map?
+- heathy schedule
+- optimize heath for productive
 
 ## Tag
 
