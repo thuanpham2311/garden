@@ -1,6 +1,6 @@
 # Garden Note
 
-**Table of Contents**
+**↓↓Table of Contents↓↓**
 
 - [About](#about)
 - [Structure Notes](#structure-notes)
@@ -17,7 +17,8 @@
   - <https://notes.andymatuschak.org>
 - [My note taking setup](publish/20211017203814.md)
 - How to read my zet?
-  → You just use github repo search, search anything you want or you can use **tags** or you can read the **Structure Notes** below.
+
+  → You just use github repo search, search anything you want or you can use [Tag](#tag) or you can read the [Structure Notes](#structure-notes) below.
 
   > e.g. <https://github.com/thuanpham2311/garden/search?q=anime>
 
