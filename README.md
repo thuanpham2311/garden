@@ -24,10 +24,6 @@
 
 ## Structure Notes
 
-- [§ Cày thuật toán cùng ông dev](publish/20211017204628.md)
-- [§ Lập trình hướng đối tượng cùng ông dev](publish/20211112114929.md)
-- [§ How zettelkasten note-taking method work?](publish/20211017210001.md)
-
 ## Question
 
 - [Who are people i admire?](publish/20211017185640.md)
