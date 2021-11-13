@@ -10,7 +10,7 @@
 
 ## About
 
-- This repo i use both Vietnamese, English (little bit).
+- This repo i use both Vietnamese, English (little bit) → this can be conflict between when i am linking note, if you can read 2 lang -Viet, Eng-, i think this the best way to explore my note, what i thinking?
 - If you don't know what is **Zettelkasten note-taking method**, i recommend you can read:
   - <https://github.com/rwxrob/zet/#readme>
   - <https://zettelkasten.de/posts/overview>
@@ -24,15 +24,17 @@
 
 ## Structure Notes
 
+- [§ zettelkasten note-taking method](20211113231757.md)
+
 ## Question
 
+- [§§ what about zettelkasten + mind map?](publish/20211113230401.md)
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
 
 ## thinks
 
-- what about zettelkasten + mind map?
 - heathy schedule
 - optimize heath for productive
 - why oop suck? i have no ideas
