@@ -24,7 +24,7 @@
 
 ## Structure Notes
 
-- [§ zettelkasten note-taking method](20211113231757.md)
+- [§ zettelkasten note-taking method](publish/20211113231757.md)
 
 ## Question
 
