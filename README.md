@@ -10,7 +10,7 @@
 
 ## About
 
-- This repo i use both Vietnamese, English (little bit) → this can be conflict between when i am linking note, if you can read 2 lang -Viet, Eng-, i think this the best way to explore my note, what i thinking?
+- This repo i use both Vietnamese, English (little bit) → this can be conflict between when i am linking note, if you can read 2 lang (Viet, Eng), i think this the best way to explore my note, what i thinking?
 - If you don't know what is **Zettelkasten note-taking method**, i recommend you can read:
   - <https://github.com/rwxrob/zet/#readme>
   - <https://zettelkasten.de/posts/overview>
