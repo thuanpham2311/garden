@@ -3,7 +3,6 @@
 **↓↓Table of Contents↓↓**
 
 - [Garden Note](#garden-note)
-  - [ahihi](#ahihi)
   - [About](#about)
   - [Structure Notes](#structure-notes)
   - [Question](#question)
@@ -11,8 +10,6 @@
   - [Tag](#tag)
 
 ---
-
-## ahihi
 
 ## About
 
