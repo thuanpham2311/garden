@@ -26,7 +26,7 @@
 ## Structure Notes
 
 - [§ zettelkasten note-taking method](publish/20211113231757.md)
-- [§ the data structures and algorithms of humanity](20211119152532.md)
+- [§ the data structures and algorithms of humanity](publish/20211119152532.md)
 
 ## Question
 
