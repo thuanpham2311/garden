@@ -6,7 +6,8 @@
   - [About](#about)
   - [Structure Notes](#structure-notes)
   - [Question](#question)
-  - [thinks](#thinks)
+  - [To-dos](#to-dos)
+  - [Thinks](#thinks)
   - [Tag](#tag)
 
 ---
@@ -35,7 +36,11 @@
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
 
-## thinks
+## To-dos
+
+- [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
+
+## Thinks
 
 - heathy schedule
 - optimize heath for productive
