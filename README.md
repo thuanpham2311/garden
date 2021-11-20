@@ -6,9 +6,9 @@
   - [About](#about)
   - [Structure Notes](#structure-notes)
   - [Question](#question)
-  - [To-dos](#to-dos)
   - [Thinks](#thinks)
   - [Tag](#tag)
+  - [TODO](#todo)
 
 ---
 
@@ -36,10 +36,6 @@
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
 
-## To-dos
-
-- [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
-
 ## Thinks
 
 - heathy schedule
@@ -58,3 +54,7 @@
 - #pm #scrum #team-work
 - #journal #blog #marriage
 - #university #education
+
+## TODO
+
+- [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
