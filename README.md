@@ -38,9 +38,9 @@
 
 ## Thinks
 
-- heathy schedule
-- optimize heath for productive
-- why oop suck? i have no ideas
+- why OOP suck? I have no ideas
+- zettelkasten again? How it really work
+- how to have the healthy
 
 ## Tag
 
@@ -48,7 +48,7 @@
 - #kdrama #movie #anime #weeaboo
 - #human #philosophy #psychology #sns #sex #critical_thinking
 - #programming #dev-life #front-end #vim #cli #linux
-- #productive #zettelkasten #note-taking #focus
+- #productive #zettelkasten #note-taking #focus #healthy
 - #finance #fund
 - #design #font
 - #pm #scrum #team-work
