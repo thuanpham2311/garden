@@ -58,3 +58,7 @@
 ## To-do list
 
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
+
+## DISCLAIMER
+
+My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
