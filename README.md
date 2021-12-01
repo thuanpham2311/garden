@@ -49,7 +49,7 @@
 - #video #article #book #course
 - #kdrama #movie #anime #weeaboo
 - #human #philosophy #psychology #sns #sex #critical_thinking
-- #programming #dev-life #front-end #vim #cli #linux
+- #programming #dev-life #front-end #vim #cli #linux #technology
 - #productive #zettelkasten #note-taking #focus #healthy
 - #finance #fund
 - #design #font
