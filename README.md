@@ -24,6 +24,8 @@
   - ⇒ You just use github repo search, search anything you want or you can use [Tag](#tag) or you can read the [Structure Notes](#structure-notes) below.
   - > e.g. <https://github.com/thuanpham2311/garden/search?q=anime>
 
+> DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
+
 ## Structure Notes
 
 - [§ zettelkasten note-taking method](publish/20211113231757.md)
@@ -58,7 +60,3 @@
 ## To-do list
 
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
-
-## DISCLAIMER
-
-My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
