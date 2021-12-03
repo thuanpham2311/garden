@@ -1,6 +1,7 @@
 # Garden Note
 
-**↓↓Table of Contents↓↓**
+<details>
+<summary>Click here to show.</summary>
 
 - [Garden Note](#garden-note)
   - [About](#about)
@@ -11,6 +12,8 @@
   - [To-do list](#to-do-list)
 
 ---
+
+</details>
 
 ## About
 
