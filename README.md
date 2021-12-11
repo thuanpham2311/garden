@@ -35,7 +35,7 @@
 
 - [§ zettelkasten note-taking method](publish/20211113231757.md)
 - [§ the data structures and algorithms of humanity](publish/20211119152532.md)
-- [§ the lazy way of studying](20211211105957.md)
+- [§ the lazy way of studying](publish/20211211105957.md)
 
 ## Question
 
