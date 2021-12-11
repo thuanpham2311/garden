@@ -35,6 +35,7 @@
 
 - [§ zettelkasten note-taking method](publish/20211113231757.md)
 - [§ the data structures and algorithms of humanity](publish/20211119152532.md)
+- [§ the lazy way of studying](20211211105957.md)
 
 ## Question
 
@@ -42,7 +43,7 @@
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
-- [how we reduce the time spending to study?](publish/20211211104215.md)
+- [§§ how we reduce the time spending to study?](publish/20211211104215.md)
 
 ## Thinks
 
