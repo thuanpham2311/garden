@@ -1,4 +1,4 @@
-# Garden Note
+# The Garden of Note
 
 **↓↓Table of Contents↓↓**
 
