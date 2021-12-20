@@ -45,6 +45,7 @@
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
 - [§§ how we reduce the time spending to study?](publish/20211211104215.md)
+- [§ goal lose weight to 70kg](publish/20211220085400.md)
 
 ## Thinks
 
