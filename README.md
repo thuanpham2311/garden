@@ -5,7 +5,7 @@
 <details>
 <summary>Click here to show.</summary>
 
-- [Garden Note](#garden-note)
+- [The Garden of Note](#the-garden-of-note)
   - [About](#about)
   - [Structure Notes](#structure-notes)
   - [Question](#question)
