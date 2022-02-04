@@ -17,6 +17,23 @@
 
 </details>
 
+**↓↓Table of Contents↓↓**
+
+<details>
+<summary>Click here to show.</summary>
+
+- [The Garden of Note](#the-garden-of-note)
+  - [About](#about)
+  - [Structure Notes](#structure-notes)
+  - [Question](#question)
+  - [Thinks](#thinks)
+  - [Tag](#tag)
+  - [To-do list](#to-do-list)
+
+---
+
+</details>
+
 ## About
 
 - This repo i use both Vietnamese, English (little bit) → this can be conflict between when i am linking note, if you can read 2 lang (Vietnamese, English), i think this the best way to explore my note, what i thinking?
@@ -68,4 +85,5 @@
 
 ## To-do list
 
+- [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
