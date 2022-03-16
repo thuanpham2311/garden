@@ -51,7 +51,7 @@
 
 - why OOP suck? I have no ideas
 - zettelkasten again? How it really work
-- how to have the healthy
+- dog training study
 
 ## Tag
 
