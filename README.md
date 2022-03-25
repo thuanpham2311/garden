@@ -69,4 +69,3 @@
 ## To-do list
 
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
-- [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
