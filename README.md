@@ -40,7 +40,7 @@
 
 ## Question
 
-- [why i don't wear underwear?](20220401171520.md)
+- [why i don't wear underwear?](publish/20220401171520.md)
 - [làm sao để học một cái gì đó khi không có tiền + thời gian?](publish/20211215084654.md)
 - [§§ what about zettelkasten + mind map?](publish/20211113230401.md)
 - [Who are people i admire?](publish/20211017185640.md)
