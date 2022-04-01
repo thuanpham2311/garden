@@ -36,17 +36,17 @@
 - [§ zettelkasten note-taking method](publish/20211113231757.md)
 - [§ the data structures and algorithms of humanity](publish/20211119152532.md)
 - [§ the lazy way of studying](publish/20211211105957.md)
+- [§ goal lose weight to 70kg](publish/20211220085400.md)
 
 ## Question
 
+- [why i don't wear underwear?](20220401171520.md)
 - [làm sao để học một cái gì đó khi không có tiền + thời gian?](publish/20211215084654.md)
 - [§§ what about zettelkasten + mind map?](publish/20211113230401.md)
 - [Who are people i admire?](publish/20211017185640.md)
 - [What i think about people beauty?](publish/202109121101.md)
 - [What font i like?](publish/202107192230.md)
 - [§§ how we reduce the time spending to study?](publish/20211211104215.md)
-- [§ goal lose weight to 70kg](publish/20211220085400.md)
-- [why i don't wear underwear?](20220401171520.md)
 
 ## Thinks
 
