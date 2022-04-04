@@ -37,6 +37,7 @@
 - [§ the data structures and algorithms of humanity](publish/20211119152532.md)
 - [§ the lazy way of studying](publish/20211211105957.md)
 - [§ goal lose weight to 70kg](publish/20211220085400.md)
+- [§ fuck you money](publish/20220404234526.md)
 
 ## Question
 
@@ -57,7 +58,7 @@
 ## Tag
 
 - #design #font
-- #finance #fund
+- #money #fund
 - #human #philosophy #psychology #sns #sex #critical_thinking
 - #kdrama #movie #anime #weeaboo
 - #pm #scrum #team-work
