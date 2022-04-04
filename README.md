@@ -56,17 +56,16 @@
 
 ## Tag
 
-- #video #article #book #course
-- #kdrama #movie #anime #weeaboo
-- #human #philosophy #psychology #sns #sex #critical_thinking
-- #programming #dev-life #front-end #vim #cli #linux #technology
-- #productive #zettelkasten #note-taking #focus #healthy
-- #finance #fund
 - #design #font
+- #finance #fund
+- #human #philosophy #psychology #sns #sex #critical_thinking
+- #kdrama #movie #anime #weeaboo
 - #pm #scrum #team-work
-- #journal #blog #marriage
-- #university #education
+- #productive #zettelkasten #note-taking #focus #healthy
+- #programming #dev-life #front-end #vim #cli #linux #technology #encryption
+- #video #article #book #course
 
-## To-do list
+## To-do
 
+- [Integral cryptanalysis](personal/20220404221752.md)
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
