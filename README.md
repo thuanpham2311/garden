@@ -68,5 +68,4 @@
 
 ## To-do
 
-- [Integral cryptanalysis](personal/20220404221752.md)
 - [tính độ phức tạp của thuật toán bằng cách méo nào?](publish/20211119184150.md)
