@@ -38,6 +38,7 @@
 - [§ the lazy way of studying](publish/20211211105957.md)
 - [§ goal lose weight to 70kg](publish/20211220085400.md)
 - [§ fuck you money](publish/20220404234526.md)
+- [§ my dreams](publish/20220427225320.md)
 
 ## Question
 
