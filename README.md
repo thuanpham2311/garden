@@ -1,3 +1,9 @@
+**breaking change**
+
+- moving to notion
+- these note will be old and not to be updated
+- see the new notion note, new publish note following the link: https://thuanpham2311.github.io/l/note
+
 # The Garden of Note
 
 **↓↓Table of Contents↓↓**
